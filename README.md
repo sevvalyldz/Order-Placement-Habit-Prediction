@@ -1,3 +1,5 @@
+![Açıklama](data/seasonality_analysis.png)
+
 # Müşteri Tahmin API
 
 Bu proje, müşteri davranışlarını tahmin eden bir REST API uygulamasıdır. FastAPI kullanılarak geliştirilmiştir.
